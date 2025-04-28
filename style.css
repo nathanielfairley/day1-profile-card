@@ -1,1 +1,24 @@
+#profileCard {
+  width: ________;
+  padding: ________;
+  border: ________ solid black;
+  margin: ________;
+  background-color: ________;
+}
 
+._________ {
+  font-size: ________;
+  font-weight: ________;
+  text-align: center;
+}
+
+._________ {
+  font-size: ________;
+  color: ________;
+  text-align: center;
+}
+
+img {
+  width: ________;
+  border-radius: ________;
+}
