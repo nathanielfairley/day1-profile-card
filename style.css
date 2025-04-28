@@ -1,24 +1,24 @@
 #profileCard {
-  width: ________;
-  padding: ________;
-  border: ________ solid black;
-  margin: ________;
-  background-color: ________;
+  width: 600px;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 5px;
+  background-color: white;
 }
 
-._________ {
-  font-size: ________;
-  font-weight: ________;
+.name {
+  font-size: 14px;
+  font-weight: bold;
   text-align: center;
 }
 
-._________ {
-  font-size: ________;
-  color: ________;
+.blurb {
+  font-size: 12px;
+  color: darkblue;
   text-align: center;
 }
 
 img {
-  width: ________;
-  border-radius: ________;
+  width: 600px;
+  border-radius: 3px;
 }
